@@ -1,0 +1,340 @@
+{
+  "multipart": [
+    {
+      "when": {
+        "facing": "north",
+        "powered": "false",
+        "keyboard": "0"
+      },
+      "apply": {
+        "model": "commandcookies_electronic_mod:block/gaming_monitor_white_off",
+        "y": 0
+      }
+    },
+    {
+      "when": {
+        "facing": "north",
+        "powered": "false",
+        "keyboard": "1|2"
+      },
+      "apply": {
+        "model": "commandcookies_electronic_mod:block/gaming_monitor_white_off_rear",
+        "y": 0
+      }
+    },
+    {
+      "when": {
+        "facing": "north",
+        "powered": "true",
+        "keyboard": "0"
+      },
+      "apply": {
+        "model": "commandcookies_electronic_mod:block/gaming_monitor_white_on",
+        "y": 0
+      }
+    },
+    {
+      "when": {
+        "facing": "north",
+        "powered": "true",
+        "keyboard": "1|2"
+      },
+      "apply": {
+        "model": "commandcookies_electronic_mod:block/gaming_monitor_white_on_rear",
+        "y": 0
+      }
+    },
+    {
+      "when": {
+        "facing": "east",
+        "powered": "false",
+        "keyboard": "0"
+      },
+      "apply": {
+        "model": "commandcookies_electronic_mod:block/gaming_monitor_white_off",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "facing": "east",
+        "powered": "false",
+        "keyboard": "1|2"
+      },
+      "apply": {
+        "model": "commandcookies_electronic_mod:block/gaming_monitor_white_off_rear",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "facing": "east",
+        "powered": "true",
+        "keyboard": "0"
+      },
+      "apply": {
+        "model": "commandcookies_electronic_mod:block/gaming_monitor_white_on",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "facing": "east",
+        "powered": "true",
+        "keyboard": "1|2"
+      },
+      "apply": {
+        "model": "commandcookies_electronic_mod:block/gaming_monitor_white_on_rear",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "facing": "south",
+        "powered": "false",
+        "keyboard": "0"
+      },
+      "apply": {
+        "model": "commandcookies_electronic_mod:block/gaming_monitor_white_off",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "facing": "south",
+        "powered": "false",
+        "keyboard": "1|2"
+      },
+      "apply": {
+        "model": "commandcookies_electronic_mod:block/gaming_monitor_white_off_rear",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "facing": "south",
+        "powered": "true",
+        "keyboard": "0"
+      },
+      "apply": {
+        "model": "commandcookies_electronic_mod:block/gaming_monitor_white_on",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "facing": "south",
+        "powered": "true",
+        "keyboard": "1|2"
+      },
+      "apply": {
+        "model": "commandcookies_electronic_mod:block/gaming_monitor_white_on_rear",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "facing": "west",
+        "powered": "false",
+        "keyboard": "0"
+      },
+      "apply": {
+        "model": "commandcookies_electronic_mod:block/gaming_monitor_white_off",
+        "y": 270
+      }
+    },
+    {
+      "when": {
+        "facing": "west",
+        "powered": "false",
+        "keyboard": "1|2"
+      },
+      "apply": {
+        "model": "commandcookies_electronic_mod:block/gaming_monitor_white_off_rear",
+        "y": 270
+      }
+    },
+    {
+      "when": {
+        "facing": "west",
+        "powered": "true",
+        "keyboard": "0"
+      },
+      "apply": {
+        "model": "commandcookies_electronic_mod:block/gaming_monitor_white_on",
+        "y": 270
+      }
+    },
+    {
+      "when": {
+        "facing": "west",
+        "powered": "true",
+        "keyboard": "1|2"
+      },
+      "apply": {
+        "model": "commandcookies_electronic_mod:block/gaming_monitor_white_on_rear",
+        "y": 270
+      }
+    },
+    {
+      "when": {
+        "facing": "north",
+        "keyboard": "1"
+      },
+      "apply": {
+        "model": "commandcookies_electronic_mod:block/monitor_attached_keyboard",
+        "y": 0
+      }
+    },
+    {
+      "when": {
+        "facing": "north",
+        "keyboard": "2"
+      },
+      "apply": {
+        "model": "commandcookies_electronic_mod:block/monitor_attached_keyboard_white",
+        "y": 0
+      }
+    },
+    {
+      "when": {
+        "facing": "north",
+        "mouse": "1"
+      },
+      "apply": {
+        "model": "commandcookies_electronic_mod:block/monitor_attached_mouse",
+        "y": 0
+      }
+    },
+    {
+      "when": {
+        "facing": "north",
+        "mouse": "2"
+      },
+      "apply": {
+        "model": "commandcookies_electronic_mod:block/monitor_attached_mouse_white",
+        "y": 0
+      }
+    },
+    {
+      "when": {
+        "facing": "east",
+        "keyboard": "1"
+      },
+      "apply": {
+        "model": "commandcookies_electronic_mod:block/monitor_attached_keyboard",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "facing": "east",
+        "keyboard": "2"
+      },
+      "apply": {
+        "model": "commandcookies_electronic_mod:block/monitor_attached_keyboard_white",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "facing": "east",
+        "mouse": "1"
+      },
+      "apply": {
+        "model": "commandcookies_electronic_mod:block/monitor_attached_mouse",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "facing": "east",
+        "mouse": "2"
+      },
+      "apply": {
+        "model": "commandcookies_electronic_mod:block/monitor_attached_mouse_white",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "facing": "south",
+        "keyboard": "1"
+      },
+      "apply": {
+        "model": "commandcookies_electronic_mod:block/monitor_attached_keyboard",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "facing": "south",
+        "keyboard": "2"
+      },
+      "apply": {
+        "model": "commandcookies_electronic_mod:block/monitor_attached_keyboard_white",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "facing": "south",
+        "mouse": "1"
+      },
+      "apply": {
+        "model": "commandcookies_electronic_mod:block/monitor_attached_mouse",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "facing": "south",
+        "mouse": "2"
+      },
+      "apply": {
+        "model": "commandcookies_electronic_mod:block/monitor_attached_mouse_white",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "facing": "west",
+        "keyboard": "1"
+      },
+      "apply": {
+        "model": "commandcookies_electronic_mod:block/monitor_attached_keyboard",
+        "y": 270
+      }
+    },
+    {
+      "when": {
+        "facing": "west",
+        "keyboard": "2"
+      },
+      "apply": {
+        "model": "commandcookies_electronic_mod:block/monitor_attached_keyboard_white",
+        "y": 270
+      }
+    },
+    {
+      "when": {
+        "facing": "west",
+        "mouse": "1"
+      },
+      "apply": {
+        "model": "commandcookies_electronic_mod:block/monitor_attached_mouse",
+        "y": 270
+      }
+    },
+    {
+      "when": {
+        "facing": "west",
+        "mouse": "2"
+      },
+      "apply": {
+        "model": "commandcookies_electronic_mod:block/monitor_attached_mouse_white",
+        "y": 270
+      }
+    }
+  ]
+}

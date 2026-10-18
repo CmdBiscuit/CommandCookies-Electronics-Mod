@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "commandcookies_electronic_mod:block/tv_with_stand"
+    },
+    "facing=east": {
+      "model": "commandcookies_electronic_mod:block/tv_with_stand",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "commandcookies_electronic_mod:block/tv_with_stand",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "commandcookies_electronic_mod:block/tv_with_stand",
+      "y": 270
+    }
+  }
+}

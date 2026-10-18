@@ -1,0 +1,9 @@
+{
+  "parent": "commandcookies_electronic_mod:custom/circuit_board",
+  "textures": {
+    "all": "commandcookies_electronic_mod:block/circuit_board_no_black_edges",
+    "particle": "commandcookies_electronic_mod:block/circuit_board_no_black_edges",
+    "0": "commandcookies_electronic_mod:block/circuit_board_no_black_edges"
+  },
+  "render_type": "solid"
+}

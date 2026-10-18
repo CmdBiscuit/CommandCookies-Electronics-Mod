@@ -1,0 +1,106 @@
+{
+  "mappings": {
+    "default": {
+      "name": "default",
+      "map": {
+        "0": "gaming_chair"
+      }
+    },
+    "white": {
+      "map": {
+        "0": "gaming_chair_white"
+      },
+      "name": "white"
+    },
+    "orange": {
+      "map": {
+        "0": "gaming_chair_orange"
+      },
+      "name": "orange"
+    },
+    "magenta": {
+      "map": {
+        "0": "gaming_chair_magenta"
+      },
+      "name": "magenta"
+    },
+    "light_blue": {
+      "map": {
+        "0": "gaming_chair_light_blue"
+      },
+      "name": "light_blue"
+    },
+    "yellow": {
+      "map": {
+        "0": "gaming_chair_yellow"
+      },
+      "name": "yellow"
+    },
+    "lime": {
+      "map": {
+        "0": "gaming_chair_lime"
+      },
+      "name": "lime"
+    },
+    "pink": {
+      "map": {
+        "0": "gaming_chair_pink"
+      },
+      "name": "pink"
+    },
+    "gray": {
+      "map": {
+        "0": "gaming_chair_gray"
+      },
+      "name": "gray"
+    },
+    "light_gray": {
+      "map": {
+        "0": "gaming_chair_light_gray"
+      },
+      "name": "light_gray"
+    },
+    "cyan": {
+      "map": {
+        "0": "gaming_chair_cyan"
+      },
+      "name": "cyan"
+    },
+    "purple": {
+      "map": {
+        "0": "gaming_chair_purple"
+      },
+      "name": "purple"
+    },
+    "blue": {
+      "map": {
+        "0": "gaming_chair_blue"
+      },
+      "name": "blue"
+    },
+    "brown": {
+      "map": {
+        "0": "gaming_chair_brown"
+      },
+      "name": "brown"
+    },
+    "green": {
+      "map": {
+        "0": "gaming_chair_green"
+      },
+      "name": "green"
+    },
+    "red": {
+      "map": {
+        "0": "gaming_chair"
+      },
+      "name": "red"
+    },
+    "black": {
+      "map": {
+        "0": "gaming_chair_black"
+      },
+      "name": "black"
+    }
+  }
+}

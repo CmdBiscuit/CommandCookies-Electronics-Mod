@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "name": "default",
+      "map": {
+        "0": "iphone_18_pro_max_glacier"
+      }
+    }
+  }
+}

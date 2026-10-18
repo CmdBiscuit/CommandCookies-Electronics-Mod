@@ -1,0 +1,232 @@
+{
+  "laptop.start": {
+    "subtitle": "sound.cem_arcade.start",
+    "sounds": [
+      {
+        "name": "cem_arcade:laptop/start",
+        "stream": false,
+        "preload": true
+      }
+    ]
+  },
+  "laptop.pause": {
+    "subtitle": "sound.cem_arcade.pause",
+    "sounds": [
+      {
+        "name": "cem_arcade:laptop/pause",
+        "stream": false,
+        "preload": true
+      }
+    ]
+  },
+  "laptop.move": {
+    "subtitle": "sound.cem_arcade.move",
+    "sounds": [
+      {
+        "name": "cem_arcade:laptop/move",
+        "stream": false,
+        "preload": true
+      }
+    ]
+  },
+  "laptop.rotate": {
+    "subtitle": "sound.cem_arcade.rotate",
+    "sounds": [
+      {
+        "name": "cem_arcade:laptop/rotate",
+        "stream": false,
+        "preload": true
+      }
+    ]
+  },
+  "laptop.eat": {
+    "subtitle": "sound.cem_arcade.eat",
+    "sounds": [
+      {
+        "name": "cem_arcade:laptop/eat",
+        "stream": false,
+        "preload": true
+      }
+    ]
+  },
+  "laptop.merge": {
+    "subtitle": "sound.cem_arcade.merge",
+    "sounds": [
+      {
+        "name": "cem_arcade:laptop/merge",
+        "stream": false,
+        "preload": true
+      }
+    ]
+  },
+  "laptop.flag": {
+    "subtitle": "sound.cem_arcade.flag",
+    "sounds": [
+      {
+        "name": "cem_arcade:laptop/flag",
+        "stream": false,
+        "preload": true
+      }
+    ]
+  },
+  "laptop.reveal": {
+    "subtitle": "sound.cem_arcade.reveal",
+    "sounds": [
+      {
+        "name": "cem_arcade:laptop/reveal",
+        "stream": false,
+        "preload": true
+      }
+    ]
+  },
+  "laptop.bounce": {
+    "subtitle": "sound.cem_arcade.bounce",
+    "sounds": [
+      {
+        "name": "cem_arcade:laptop/bounce",
+        "stream": false,
+        "preload": true
+      }
+    ]
+  },
+  "laptop.brick": {
+    "subtitle": "sound.cem_arcade.brick",
+    "sounds": [
+      {
+        "name": "cem_arcade:laptop/brick",
+        "stream": false,
+        "preload": true
+      }
+    ]
+  },
+  "laptop.land": {
+    "subtitle": "sound.cem_arcade.land",
+    "sounds": [
+      {
+        "name": "cem_arcade:laptop/land",
+        "stream": false,
+        "preload": true
+      }
+    ]
+  },
+  "laptop.line": {
+    "subtitle": "sound.cem_arcade.line",
+    "sounds": [
+      {
+        "name": "cem_arcade:laptop/line",
+        "stream": false,
+        "preload": true
+      }
+    ]
+  },
+  "laptop.flip": {
+    "subtitle": "sound.cem_arcade.flip",
+    "sounds": [
+      {
+        "name": "cem_arcade:laptop/flip",
+        "stream": false,
+        "preload": true
+      }
+    ]
+  },
+  "laptop.match": {
+    "subtitle": "sound.cem_arcade.match",
+    "sounds": [
+      {
+        "name": "cem_arcade:laptop/match",
+        "stream": false,
+        "preload": true
+      }
+    ]
+  },
+  "laptop.miss": {
+    "subtitle": "sound.cem_arcade.miss",
+    "sounds": [
+      {
+        "name": "cem_arcade:laptop/miss",
+        "stream": false,
+        "preload": true
+      }
+    ]
+  },
+  "laptop.mark": {
+    "subtitle": "sound.cem_arcade.mark",
+    "sounds": [
+      {
+        "name": "cem_arcade:laptop/mark",
+        "stream": false,
+        "preload": true
+      }
+    ]
+  },
+  "laptop.ready": {
+    "subtitle": "sound.cem_arcade.ready",
+    "sounds": [
+      {
+        "name": "cem_arcade:laptop/ready",
+        "stream": false,
+        "preload": true
+      }
+    ]
+  },
+  "laptop.too_soon": {
+    "subtitle": "sound.cem_arcade.too_soon",
+    "sounds": [
+      {
+        "name": "cem_arcade:laptop/too_soon",
+        "stream": false,
+        "preload": true
+      }
+    ]
+  },
+  "laptop.win": {
+    "subtitle": "sound.cem_arcade.win",
+    "sounds": [
+      {
+        "name": "cem_arcade:laptop/win",
+        "stream": false,
+        "preload": true
+      }
+    ]
+  },
+  "laptop.lose": {
+    "subtitle": "sound.cem_arcade.lose",
+    "sounds": [
+      {
+        "name": "cem_arcade:laptop/lose",
+        "stream": false,
+        "preload": true
+      }
+    ]
+  },
+  "laptop.draw": {
+    "subtitle": "sound.cem_arcade.draw",
+    "sounds": [
+      {
+        "name": "cem_arcade:laptop/draw",
+        "stream": false,
+        "preload": true
+      }
+    ]
+  },
+  "laptop.undo": {
+    "subtitle": "sound.cem_arcade.undo",
+    "sounds": [
+      {
+        "name": "cem_arcade:laptop/undo",
+        "stream": false,
+        "preload": true
+      }
+    ]
+  },
+  "laptop.life": {
+    "subtitle": "sound.cem_arcade.life",
+    "sounds": [
+      {
+        "name": "cem_arcade:laptop/life",
+        "stream": false,
+        "preload": true
+      }
+    ]
+  }
+}

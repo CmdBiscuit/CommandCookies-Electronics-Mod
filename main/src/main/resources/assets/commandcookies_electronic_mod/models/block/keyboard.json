@@ -1,0 +1,7 @@
+{
+  "parent": "commandcookies_electronic_mod:custom/keyboard",
+  "textures": {
+    "0": "commandcookies_electronic_mod:block/keyboard",
+    "particle": "commandcookies_electronic_mod:block/keyboard"
+  }
+}

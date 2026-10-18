@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "commandcookies_electronic_mod:item/camera_lens_32x32"
+  }
+}

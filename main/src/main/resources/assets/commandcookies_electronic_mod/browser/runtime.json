@@ -1,0 +1,54 @@
+{
+  "version": "152.0.6",
+  "libraries": [
+    {
+      "name": "jcef-api.jar",
+      "sha256": "c95083e2dd36272d98db4b08ba7b4963bcab02f06c52e7c921fab17728834aeb"
+    },
+    {
+      "name": "jcefmaven.jar",
+      "sha256": "2128265df3262ffa447ee3b29502e836a58eaf3aa144710bd1c03be27be90576"
+    },
+    {
+      "name": "gson.jar",
+      "sha256": "57928d6e5a6edeb2abd3770a8f95ba44dce45f3b23b7a9dc2b309c581552a78b"
+    },
+    {
+      "name": "commons-compress.jar",
+      "sha256": "e1522945218456f3649a39bc4afd70ce4bd466221519dba7d378f2141a4642ca"
+    },
+    {
+      "name": "commons-io.jar",
+      "sha256": "df90bba0fe3cb586b7f164e78fe8f8f4da3f2dd5c27fa645f888100ccc25dd72"
+    },
+    {
+      "name": "commons-lang3.jar",
+      "sha256": "4eeeae8d20c078abb64b015ec158add383ac581571cddc45c68f0c9ae0230720"
+    },
+    {
+      "name": "cem-browser-helper.jar",
+      "sha256": "cdae1516ad52c37aa58153ba2aae3db05c2ad0d5fc2313104d7332b762fed23b"
+    }
+  ],
+  "native": {
+    "url": "https://github.com/jcefmaven/jcefmaven/releases/download/152.0.6/jcef-natives-windows-amd64-jcef-17e805a%2Bcef-152.0.6%2Bg708dc14%2Bchromium-152.0.7977.83.jar",
+    "sha256": "0dc2ce28766d267f551398e24af7a9bec244b888e651bd97a14ac2d128550875",
+    "bytes": 171200308
+  },
+  "source": "https://github.com/jcefmaven/jcefmaven/releases/tag/152.0.6",
+  "media": {
+    "version": "44.5.1+wvcus",
+    "url": "https://github.com/castlabs/electron-releases/releases/download/v44.5.1%2Bwvcus/electron-v44.5.1%2Bwvcus-win32-x64.zip",
+    "sha256": "c7d51e4bf80de9ef18b3306b0d140059bb203510d3dfc88f3404049a12c90f89",
+    "bytes": 158299258,
+    "helper": {
+      "name": "cem-media-browser.asar",
+      "sha256": "e6504bd3fa789e8d0eab228ef527052dd26d919e9ea150ff5b982b6d4441bc12"
+    },
+    "signature": {
+      "name": "electron.exe.sig",
+      "sha256": "72c060a28af6467cf0851d6e85ee14960dabe82166320661caf13e0464a91c48"
+    },
+    "production": true
+  }
+}

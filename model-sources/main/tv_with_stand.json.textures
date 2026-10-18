@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "tv_with_stand"
+      },
+      "name": "default"
+    }
+  }
+}

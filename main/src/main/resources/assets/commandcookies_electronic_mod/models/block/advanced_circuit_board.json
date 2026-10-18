@@ -1,0 +1,9 @@
+{
+  "parent": "commandcookies_electronic_mod:custom/advanced_circuit_board",
+  "textures": {
+    "all": "commandcookies_electronic_mod:block/idk_dog",
+    "particle": "commandcookies_electronic_mod:block/idk_dog",
+    "0": "commandcookies_electronic_mod:block/idk_dog"
+  },
+  "render_type": "solid"
+}

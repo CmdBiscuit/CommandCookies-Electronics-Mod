@@ -1,0 +1,1901 @@
+{
+  "recipes": [
+    {
+      "id": "iphone_18_pro_max",
+      "title": "iPhone 18 Pro Max - Burgundy",
+      "family": "Phones",
+      "output": "commandcookies_electronic_mod:iphone_18_pro_max",
+      "parts": [
+        {
+          "label": "Camera Lens",
+          "item": "commandcookies_electronic_mod:camera_lens",
+          "amount": 3
+        },
+        {
+          "label": "Advanced Circuit Board",
+          "item": "commandcookies_electronic_mod:advanced_circuit_board",
+          "amount": 1
+        },
+        {
+          "label": "Wires",
+          "item": "commandcookies_electronic_mod:wires",
+          "amount": 4
+        },
+        {
+          "label": "Jukebox",
+          "item": "minecraft:jukebox",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "id": "iphone_18_pro_max_black",
+      "title": "iPhone 18 Pro Max - Black",
+      "family": "Phones",
+      "output": "commandcookies_electronic_mod:iphone_18_pro_max_black",
+      "parts": [
+        {
+          "label": "Camera Lens",
+          "item": "commandcookies_electronic_mod:camera_lens",
+          "amount": 3
+        },
+        {
+          "label": "Advanced Circuit Board",
+          "item": "commandcookies_electronic_mod:advanced_circuit_board",
+          "amount": 1
+        },
+        {
+          "label": "Wires",
+          "item": "commandcookies_electronic_mod:wires",
+          "amount": 4
+        },
+        {
+          "label": "Jukebox",
+          "item": "minecraft:jukebox",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "id": "iphone_18_pro_max_silver",
+      "title": "iPhone 18 Pro Max - Silver",
+      "family": "Phones",
+      "output": "commandcookies_electronic_mod:iphone_18_pro_max_silver",
+      "parts": [
+        {
+          "label": "Camera Lens",
+          "item": "commandcookies_electronic_mod:camera_lens",
+          "amount": 3
+        },
+        {
+          "label": "Advanced Circuit Board",
+          "item": "commandcookies_electronic_mod:advanced_circuit_board",
+          "amount": 1
+        },
+        {
+          "label": "Wires",
+          "item": "commandcookies_electronic_mod:wires",
+          "amount": 4
+        },
+        {
+          "label": "Jukebox",
+          "item": "minecraft:jukebox",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "id": "iphone_18_pro_max_glacier",
+      "title": "iPhone 18 Pro Max - Glacier",
+      "family": "Phones",
+      "output": "commandcookies_electronic_mod:iphone_18_pro_max_glacier",
+      "parts": [
+        {
+          "label": "Camera Lens",
+          "item": "commandcookies_electronic_mod:camera_lens",
+          "amount": 3
+        },
+        {
+          "label": "Advanced Circuit Board",
+          "item": "commandcookies_electronic_mod:advanced_circuit_board",
+          "amount": 1
+        },
+        {
+          "label": "Wires",
+          "item": "commandcookies_electronic_mod:wires",
+          "amount": 4
+        },
+        {
+          "label": "Jukebox",
+          "item": "minecraft:jukebox",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "id": "s_26_ultra",
+      "title": "S26 Ultra - Black",
+      "family": "Phones",
+      "output": "commandcookies_electronic_mod:s_26_ultra",
+      "parts": [
+        {
+          "label": "Camera Lens",
+          "item": "commandcookies_electronic_mod:camera_lens",
+          "amount": 3
+        },
+        {
+          "label": "Advanced Circuit Board",
+          "item": "commandcookies_electronic_mod:advanced_circuit_board",
+          "amount": 1
+        },
+        {
+          "label": "Wires",
+          "item": "commandcookies_electronic_mod:wires",
+          "amount": 4
+        },
+        {
+          "label": "Jukebox",
+          "item": "minecraft:jukebox",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "id": "s_26_ultra_cobalt_violet",
+      "title": "S26 Ultra - Cobalt Violet",
+      "family": "Phones",
+      "output": "commandcookies_electronic_mod:s_26_ultra_cobalt_violet",
+      "parts": [
+        {
+          "label": "Camera Lens",
+          "item": "commandcookies_electronic_mod:camera_lens",
+          "amount": 3
+        },
+        {
+          "label": "Advanced Circuit Board",
+          "item": "commandcookies_electronic_mod:advanced_circuit_board",
+          "amount": 1
+        },
+        {
+          "label": "Wires",
+          "item": "commandcookies_electronic_mod:wires",
+          "amount": 4
+        },
+        {
+          "label": "Jukebox",
+          "item": "minecraft:jukebox",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "id": "s_26_ultra_sky_blue",
+      "title": "S26 Ultra - Sky Blue",
+      "family": "Phones",
+      "output": "commandcookies_electronic_mod:s_26_ultra_sky_blue",
+      "parts": [
+        {
+          "label": "Camera Lens",
+          "item": "commandcookies_electronic_mod:camera_lens",
+          "amount": 3
+        },
+        {
+          "label": "Advanced Circuit Board",
+          "item": "commandcookies_electronic_mod:advanced_circuit_board",
+          "amount": 1
+        },
+        {
+          "label": "Wires",
+          "item": "commandcookies_electronic_mod:wires",
+          "amount": 4
+        },
+        {
+          "label": "Jukebox",
+          "item": "minecraft:jukebox",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "id": "s_26_ultra_white",
+      "title": "S26 Ultra - White",
+      "family": "Phones",
+      "output": "commandcookies_electronic_mod:s_26_ultra_white",
+      "parts": [
+        {
+          "label": "Camera Lens",
+          "item": "commandcookies_electronic_mod:camera_lens",
+          "amount": 3
+        },
+        {
+          "label": "Advanced Circuit Board",
+          "item": "commandcookies_electronic_mod:advanced_circuit_board",
+          "amount": 1
+        },
+        {
+          "label": "Wires",
+          "item": "commandcookies_electronic_mod:wires",
+          "amount": 4
+        },
+        {
+          "label": "Jukebox",
+          "item": "minecraft:jukebox",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "id": "s_26_ultra_pink_gold",
+      "title": "S26 Ultra - Pink Gold",
+      "family": "Phones",
+      "output": "commandcookies_electronic_mod:s_26_ultra_pink_gold",
+      "parts": [
+        {
+          "label": "Camera Lens",
+          "item": "commandcookies_electronic_mod:camera_lens",
+          "amount": 3
+        },
+        {
+          "label": "Advanced Circuit Board",
+          "item": "commandcookies_electronic_mod:advanced_circuit_board",
+          "amount": 1
+        },
+        {
+          "label": "Wires",
+          "item": "commandcookies_electronic_mod:wires",
+          "amount": 4
+        },
+        {
+          "label": "Jukebox",
+          "item": "minecraft:jukebox",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "id": "s_26_ultra_silver_shadow",
+      "title": "S26 Ultra - Silver Shadow",
+      "family": "Phones",
+      "output": "commandcookies_electronic_mod:s_26_ultra_silver_shadow",
+      "parts": [
+        {
+          "label": "Camera Lens",
+          "item": "commandcookies_electronic_mod:camera_lens",
+          "amount": 3
+        },
+        {
+          "label": "Advanced Circuit Board",
+          "item": "commandcookies_electronic_mod:advanced_circuit_board",
+          "amount": 1
+        },
+        {
+          "label": "Wires",
+          "item": "commandcookies_electronic_mod:wires",
+          "amount": 4
+        },
+        {
+          "label": "Jukebox",
+          "item": "minecraft:jukebox",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "id": "laptop",
+      "title": "Laptop",
+      "family": "Computers",
+      "output": "commandcookies_electronic_mod:laptop",
+      "parts": [
+        {
+          "label": "Camera Lens",
+          "item": "commandcookies_electronic_mod:camera_lens",
+          "amount": 1
+        },
+        {
+          "label": "Wires",
+          "item": "commandcookies_electronic_mod:wires",
+          "amount": 3
+        },
+        {
+          "label": "Advanced Circuit Board",
+          "item": "commandcookies_electronic_mod:advanced_circuit_board",
+          "amount": 1
+        },
+        {
+          "label": "Glass Pane",
+          "item": "minecraft:glass_pane",
+          "amount": 2
+        },
+        {
+          "label": "Jukebox",
+          "item": "minecraft:jukebox",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "id": "laptop_black",
+      "title": "Black Laptop",
+      "family": "Computers",
+      "output": "commandcookies_electronic_mod:laptop_black",
+      "parts": [
+        {
+          "label": "Camera Lens",
+          "item": "commandcookies_electronic_mod:camera_lens",
+          "amount": 1
+        },
+        {
+          "label": "Wires",
+          "item": "commandcookies_electronic_mod:wires",
+          "amount": 3
+        },
+        {
+          "label": "Advanced Circuit Board",
+          "item": "commandcookies_electronic_mod:advanced_circuit_board",
+          "amount": 1
+        },
+        {
+          "label": "Glass Pane",
+          "item": "minecraft:glass_pane",
+          "amount": 2
+        },
+        {
+          "label": "Jukebox",
+          "item": "minecraft:jukebox",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "id": "laptop_white",
+      "title": "White Laptop",
+      "family": "Computers",
+      "output": "commandcookies_electronic_mod:laptop_white",
+      "parts": [
+        {
+          "label": "Camera Lens",
+          "item": "commandcookies_electronic_mod:camera_lens",
+          "amount": 1
+        },
+        {
+          "label": "Wires",
+          "item": "commandcookies_electronic_mod:wires",
+          "amount": 3
+        },
+        {
+          "label": "Advanced Circuit Board",
+          "item": "commandcookies_electronic_mod:advanced_circuit_board",
+          "amount": 1
+        },
+        {
+          "label": "Glass Pane",
+          "item": "minecraft:glass_pane",
+          "amount": 2
+        },
+        {
+          "label": "Jukebox",
+          "item": "minecraft:jukebox",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "id": "laptop_navy_blue",
+      "title": "Navy Blue Laptop",
+      "family": "Computers",
+      "output": "commandcookies_electronic_mod:laptop_navy_blue",
+      "parts": [
+        {
+          "label": "Camera Lens",
+          "item": "commandcookies_electronic_mod:camera_lens",
+          "amount": 1
+        },
+        {
+          "label": "Wires",
+          "item": "commandcookies_electronic_mod:wires",
+          "amount": 3
+        },
+        {
+          "label": "Advanced Circuit Board",
+          "item": "commandcookies_electronic_mod:advanced_circuit_board",
+          "amount": 1
+        },
+        {
+          "label": "Glass Pane",
+          "item": "minecraft:glass_pane",
+          "amount": 2
+        },
+        {
+          "label": "Jukebox",
+          "item": "minecraft:jukebox",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "id": "laptop_forest_green",
+      "title": "Forest Green Laptop",
+      "family": "Computers",
+      "output": "commandcookies_electronic_mod:laptop_forest_green",
+      "parts": [
+        {
+          "label": "Camera Lens",
+          "item": "commandcookies_electronic_mod:camera_lens",
+          "amount": 1
+        },
+        {
+          "label": "Wires",
+          "item": "commandcookies_electronic_mod:wires",
+          "amount": 3
+        },
+        {
+          "label": "Advanced Circuit Board",
+          "item": "commandcookies_electronic_mod:advanced_circuit_board",
+          "amount": 1
+        },
+        {
+          "label": "Glass Pane",
+          "item": "minecraft:glass_pane",
+          "amount": 2
+        },
+        {
+          "label": "Jukebox",
+          "item": "minecraft:jukebox",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "id": "laptop_burgundy",
+      "title": "Burgundy Laptop",
+      "family": "Computers",
+      "output": "commandcookies_electronic_mod:laptop_burgundy",
+      "parts": [
+        {
+          "label": "Camera Lens",
+          "item": "commandcookies_electronic_mod:camera_lens",
+          "amount": 1
+        },
+        {
+          "label": "Wires",
+          "item": "commandcookies_electronic_mod:wires",
+          "amount": 3
+        },
+        {
+          "label": "Advanced Circuit Board",
+          "item": "commandcookies_electronic_mod:advanced_circuit_board",
+          "amount": 1
+        },
+        {
+          "label": "Glass Pane",
+          "item": "minecraft:glass_pane",
+          "amount": 2
+        },
+        {
+          "label": "Jukebox",
+          "item": "minecraft:jukebox",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "id": "calculator",
+      "title": "Calculator",
+      "family": "Electronics",
+      "output": "commandcookies_electronic_mod:calculator",
+      "parts": [
+        {
+          "label": "Glass Pane",
+          "item": "minecraft:glass_pane",
+          "amount": 1
+        },
+        {
+          "label": "Wires",
+          "item": "commandcookies_electronic_mod:wires",
+          "amount": 2
+        },
+        {
+          "label": "Iron Ingot",
+          "item": "minecraft:iron_ingot",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "id": "crt_tv",
+      "title": "CRT TV",
+      "family": "Electronics",
+      "output": "commandcookies_electronic_mod:crt_tv",
+      "parts": [
+        {
+          "label": "Advanced Circuit Board",
+          "item": "commandcookies_electronic_mod:advanced_circuit_board",
+          "amount": 1
+        },
+        {
+          "label": "Wires",
+          "item": "commandcookies_electronic_mod:wires",
+          "amount": 1
+        },
+        {
+          "label": "Glass",
+          "item": "minecraft:glass",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "id": "gaming_chair_red",
+      "title": "Gaming Chair - Red",
+      "family": "Furniture",
+      "output": "commandcookies_electronic_mod:gaming_chair_red",
+      "parts": [
+        {
+          "label": "Iron Ingot",
+          "item": "minecraft:iron_ingot",
+          "amount": 1
+        },
+        {
+          "label": "Red Wool",
+          "item": "minecraft:red_wool",
+          "amount": 3
+        },
+        {
+          "label": "Oak Planks",
+          "item": "minecraft:oak_planks",
+          "amount": 4
+        }
+      ]
+    },
+    {
+      "id": "gaming_chair_white",
+      "title": "Gaming Chair - White",
+      "family": "Furniture",
+      "output": "commandcookies_electronic_mod:gaming_chair_white",
+      "parts": [
+        {
+          "label": "Iron Ingot",
+          "item": "minecraft:iron_ingot",
+          "amount": 1
+        },
+        {
+          "label": "White Wool",
+          "item": "minecraft:white_wool",
+          "amount": 3
+        },
+        {
+          "label": "Oak Planks",
+          "item": "minecraft:oak_planks",
+          "amount": 4
+        }
+      ]
+    },
+    {
+      "id": "gaming_chair_orange",
+      "title": "Gaming Chair - Orange",
+      "family": "Furniture",
+      "output": "commandcookies_electronic_mod:gaming_chair_orange",
+      "parts": [
+        {
+          "label": "Iron Ingot",
+          "item": "minecraft:iron_ingot",
+          "amount": 1
+        },
+        {
+          "label": "Orange Wool",
+          "item": "minecraft:orange_wool",
+          "amount": 3
+        },
+        {
+          "label": "Oak Planks",
+          "item": "minecraft:oak_planks",
+          "amount": 4
+        }
+      ]
+    },
+    {
+      "id": "gaming_chair_magenta",
+      "title": "Gaming Chair - Magenta",
+      "family": "Furniture",
+      "output": "commandcookies_electronic_mod:gaming_chair_magenta",
+      "parts": [
+        {
+          "label": "Iron Ingot",
+          "item": "minecraft:iron_ingot",
+          "amount": 1
+        },
+        {
+          "label": "Magenta Wool",
+          "item": "minecraft:magenta_wool",
+          "amount": 3
+        },
+        {
+          "label": "Oak Planks",
+          "item": "minecraft:oak_planks",
+          "amount": 4
+        }
+      ]
+    },
+    {
+      "id": "gaming_chair_light_blue",
+      "title": "Gaming Chair - Light Blue",
+      "family": "Furniture",
+      "output": "commandcookies_electronic_mod:gaming_chair_light_blue",
+      "parts": [
+        {
+          "label": "Iron Ingot",
+          "item": "minecraft:iron_ingot",
+          "amount": 1
+        },
+        {
+          "label": "Light Blue Wool",
+          "item": "minecraft:light_blue_wool",
+          "amount": 3
+        },
+        {
+          "label": "Oak Planks",
+          "item": "minecraft:oak_planks",
+          "amount": 4
+        }
+      ]
+    },
+    {
+      "id": "gaming_chair_yellow",
+      "title": "Gaming Chair - Yellow",
+      "family": "Furniture",
+      "output": "commandcookies_electronic_mod:gaming_chair_yellow",
+      "parts": [
+        {
+          "label": "Iron Ingot",
+          "item": "minecraft:iron_ingot",
+          "amount": 1
+        },
+        {
+          "label": "Yellow Wool",
+          "item": "minecraft:yellow_wool",
+          "amount": 3
+        },
+        {
+          "label": "Oak Planks",
+          "item": "minecraft:oak_planks",
+          "amount": 4
+        }
+      ]
+    },
+    {
+      "id": "gaming_chair_lime",
+      "title": "Gaming Chair - Lime",
+      "family": "Furniture",
+      "output": "commandcookies_electronic_mod:gaming_chair_lime",
+      "parts": [
+        {
+          "label": "Iron Ingot",
+          "item": "minecraft:iron_ingot",
+          "amount": 1
+        },
+        {
+          "label": "Lime Wool",
+          "item": "minecraft:lime_wool",
+          "amount": 3
+        },
+        {
+          "label": "Oak Planks",
+          "item": "minecraft:oak_planks",
+          "amount": 4
+        }
+      ]
+    },
+    {
+      "id": "gaming_chair_pink",
+      "title": "Gaming Chair - Pink",
+      "family": "Furniture",
+      "output": "commandcookies_electronic_mod:gaming_chair_pink",
+      "parts": [
+        {
+          "label": "Iron Ingot",
+          "item": "minecraft:iron_ingot",
+          "amount": 1
+        },
+        {
+          "label": "Pink Wool",
+          "item": "minecraft:pink_wool",
+          "amount": 3
+        },
+        {
+          "label": "Oak Planks",
+          "item": "minecraft:oak_planks",
+          "amount": 4
+        }
+      ]
+    },
+    {
+      "id": "gaming_chair_gray",
+      "title": "Gaming Chair - Gray",
+      "family": "Furniture",
+      "output": "commandcookies_electronic_mod:gaming_chair_gray",
+      "parts": [
+        {
+          "label": "Iron Ingot",
+          "item": "minecraft:iron_ingot",
+          "amount": 1
+        },
+        {
+          "label": "Gray Wool",
+          "item": "minecraft:gray_wool",
+          "amount": 3
+        },
+        {
+          "label": "Oak Planks",
+          "item": "minecraft:oak_planks",
+          "amount": 4
+        }
+      ]
+    },
+    {
+      "id": "gaming_chair_light_gray",
+      "title": "Gaming Chair - Light Gray",
+      "family": "Furniture",
+      "output": "commandcookies_electronic_mod:gaming_chair_light_gray",
+      "parts": [
+        {
+          "label": "Iron Ingot",
+          "item": "minecraft:iron_ingot",
+          "amount": 1
+        },
+        {
+          "label": "Light Gray Wool",
+          "item": "minecraft:light_gray_wool",
+          "amount": 3
+        },
+        {
+          "label": "Oak Planks",
+          "item": "minecraft:oak_planks",
+          "amount": 4
+        }
+      ]
+    },
+    {
+      "id": "gaming_chair_cyan",
+      "title": "Gaming Chair - Cyan",
+      "family": "Furniture",
+      "output": "commandcookies_electronic_mod:gaming_chair_cyan",
+      "parts": [
+        {
+          "label": "Iron Ingot",
+          "item": "minecraft:iron_ingot",
+          "amount": 1
+        },
+        {
+          "label": "Cyan Wool",
+          "item": "minecraft:cyan_wool",
+          "amount": 3
+        },
+        {
+          "label": "Oak Planks",
+          "item": "minecraft:oak_planks",
+          "amount": 4
+        }
+      ]
+    },
+    {
+      "id": "gaming_chair_purple",
+      "title": "Gaming Chair - Purple",
+      "family": "Furniture",
+      "output": "commandcookies_electronic_mod:gaming_chair_purple",
+      "parts": [
+        {
+          "label": "Iron Ingot",
+          "item": "minecraft:iron_ingot",
+          "amount": 1
+        },
+        {
+          "label": "Purple Wool",
+          "item": "minecraft:purple_wool",
+          "amount": 3
+        },
+        {
+          "label": "Oak Planks",
+          "item": "minecraft:oak_planks",
+          "amount": 4
+        }
+      ]
+    },
+    {
+      "id": "gaming_chair_blue",
+      "title": "Gaming Chair - Blue",
+      "family": "Furniture",
+      "output": "commandcookies_electronic_mod:gaming_chair_blue",
+      "parts": [
+        {
+          "label": "Iron Ingot",
+          "item": "minecraft:iron_ingot",
+          "amount": 1
+        },
+        {
+          "label": "Blue Wool",
+          "item": "minecraft:blue_wool",
+          "amount": 3
+        },
+        {
+          "label": "Oak Planks",
+          "item": "minecraft:oak_planks",
+          "amount": 4
+        }
+      ]
+    },
+    {
+      "id": "gaming_chair_brown",
+      "title": "Gaming Chair - Brown",
+      "family": "Furniture",
+      "output": "commandcookies_electronic_mod:gaming_chair_brown",
+      "parts": [
+        {
+          "label": "Iron Ingot",
+          "item": "minecraft:iron_ingot",
+          "amount": 1
+        },
+        {
+          "label": "Brown Wool",
+          "item": "minecraft:brown_wool",
+          "amount": 3
+        },
+        {
+          "label": "Oak Planks",
+          "item": "minecraft:oak_planks",
+          "amount": 4
+        }
+      ]
+    },
+    {
+      "id": "gaming_chair_green",
+      "title": "Gaming Chair - Green",
+      "family": "Furniture",
+      "output": "commandcookies_electronic_mod:gaming_chair_green",
+      "parts": [
+        {
+          "label": "Iron Ingot",
+          "item": "minecraft:iron_ingot",
+          "amount": 1
+        },
+        {
+          "label": "Green Wool",
+          "item": "minecraft:green_wool",
+          "amount": 3
+        },
+        {
+          "label": "Oak Planks",
+          "item": "minecraft:oak_planks",
+          "amount": 4
+        }
+      ]
+    },
+    {
+      "id": "gaming_chair_black",
+      "title": "Gaming Chair - Black",
+      "family": "Furniture",
+      "output": "commandcookies_electronic_mod:gaming_chair_black",
+      "parts": [
+        {
+          "label": "Iron Ingot",
+          "item": "minecraft:iron_ingot",
+          "amount": 1
+        },
+        {
+          "label": "Black Wool",
+          "item": "minecraft:black_wool",
+          "amount": 3
+        },
+        {
+          "label": "Oak Planks",
+          "item": "minecraft:oak_planks",
+          "amount": 4
+        }
+      ]
+    },
+    {
+      "id": "retro_monitor",
+      "title": "Retro CRT Monitor",
+      "family": "Displays",
+      "output": "commandcookies_electronic_mod:retro_monitor",
+      "parts": [
+        {
+          "label": "Iron Ingot",
+          "item": "minecraft:iron_ingot",
+          "amount": 4
+        },
+        {
+          "label": "Glass Block",
+          "item": "minecraft:glass",
+          "amount": 2
+        },
+        {
+          "label": "Advanced Circuit Board",
+          "item": "commandcookies_electronic_mod:advanced_circuit_board",
+          "amount": 1
+        },
+        {
+          "label": "Wires",
+          "item": "commandcookies_electronic_mod:wires",
+          "amount": 3
+        }
+      ]
+    },
+    {
+      "id": "nes_console",
+      "title": "NES Console",
+      "family": "Retro Gaming",
+      "output": "commandcookies_electronic_mod:nes_console",
+      "parts": [
+        {
+          "label": "Iron Ingot",
+          "item": "minecraft:iron_ingot",
+          "amount": 3
+        },
+        {
+          "label": "Advanced Circuit Board",
+          "item": "commandcookies_electronic_mod:advanced_circuit_board",
+          "amount": 1
+        },
+        {
+          "label": "Wires",
+          "item": "commandcookies_electronic_mod:wires",
+          "amount": 3
+        },
+        {
+          "label": "Redstone Dust",
+          "item": "minecraft:redstone",
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "id": "av_cable",
+      "title": "AV Cable",
+      "family": "Components",
+      "output": "commandcookies_electronic_mod:av_cable",
+      "parts": [
+        {
+          "label": "Wires",
+          "item": "commandcookies_electronic_mod:wires",
+          "amount": 2
+        },
+        {
+          "label": "Copper Ingot",
+          "item": "minecraft:copper_ingot",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "id": "nes_controller",
+      "title": "NES Controller",
+      "family": "Retro Gaming",
+      "output": "commandcookies_electronic_mod:nes_controller",
+      "parts": [
+        {
+          "label": "Iron Ingot",
+          "item": "minecraft:iron_ingot",
+          "amount": 2
+        },
+        {
+          "label": "Basic Circuit Board",
+          "item": "commandcookies_electronic_mod:basic_circuit_board",
+          "amount": 1
+        },
+        {
+          "label": "Wires",
+          "item": "commandcookies_electronic_mod:wires",
+          "amount": 1
+        },
+        {
+          "label": "Stone Button",
+          "item": "minecraft:stone_button",
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "id": "nes_tetris_cartridge",
+      "title": "Tetris Cartridge",
+      "family": "Cartridges",
+      "output": "commandcookies_electronic_mod:nes_tetris_cartridge",
+      "parts": [
+        {
+          "label": "Iron Ingot",
+          "item": "minecraft:iron_ingot",
+          "amount": 2
+        },
+        {
+          "label": "Basic Circuit Board",
+          "item": "commandcookies_electronic_mod:basic_circuit_board",
+          "amount": 1
+        },
+        {
+          "label": "Redstone Dust",
+          "item": "minecraft:redstone",
+          "amount": 1
+        },
+        {
+          "label": "Paper",
+          "item": "minecraft:paper",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "id": "advanced_circuit_board",
+      "title": "Advanced Circuit Board",
+      "family": "Components",
+      "output": "commandcookies_electronic_mod:advanced_circuit_board",
+      "parts": [
+        {
+          "label": "Basic Circuit Board",
+          "item": "commandcookies_electronic_mod:basic_circuit_board",
+          "amount": 1
+        },
+        {
+          "label": "Gold Ingot",
+          "item": "minecraft:gold_ingot",
+          "amount": 2
+        },
+        {
+          "label": "Redstone Dust",
+          "item": "minecraft:redstone",
+          "amount": 2
+        },
+        {
+          "label": "Wires",
+          "item": "commandcookies_electronic_mod:wires",
+          "amount": 2
+        },
+        {
+          "label": "Nether Quartz",
+          "item": "minecraft:quartz",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "id": "gaming_pc",
+      "title": "Gaming PC",
+      "family": "Computers",
+      "output": "commandcookies_electronic_mod:gaming_pc",
+      "parts": [
+        {
+          "label": "Iron Ingot",
+          "item": "minecraft:iron_ingot",
+          "amount": 4
+        },
+        {
+          "label": "Advanced Circuit Board",
+          "item": "commandcookies_electronic_mod:advanced_circuit_board",
+          "amount": 2
+        },
+        {
+          "label": "Wires",
+          "item": "commandcookies_electronic_mod:wires",
+          "amount": 6
+        },
+        {
+          "label": "Jukebox",
+          "item": "minecraft:jukebox",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "id": "gaming_pc_white",
+      "title": "White Gaming PC",
+      "family": "Computers",
+      "output": "commandcookies_electronic_mod:gaming_pc_white",
+      "parts": [
+        {
+          "label": "Iron Ingot",
+          "item": "minecraft:iron_ingot",
+          "amount": 4
+        },
+        {
+          "label": "Advanced Circuit Board",
+          "item": "commandcookies_electronic_mod:advanced_circuit_board",
+          "amount": 2
+        },
+        {
+          "label": "Wires",
+          "item": "commandcookies_electronic_mod:wires",
+          "amount": 6
+        },
+        {
+          "label": "Jukebox",
+          "item": "minecraft:jukebox",
+          "amount": 1
+        },
+        {
+          "label": "White Dye",
+          "item": "minecraft:white_dye",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "id": "gaming_monitor",
+      "title": "Gaming Monitor",
+      "family": "Displays",
+      "output": "commandcookies_electronic_mod:gaming_monitor",
+      "parts": [
+        {
+          "label": "Glass Pane",
+          "item": "minecraft:glass_pane",
+          "amount": 3
+        },
+        {
+          "label": "Iron Ingot",
+          "item": "minecraft:iron_ingot",
+          "amount": 2
+        },
+        {
+          "label": "Basic Circuit Board",
+          "item": "commandcookies_electronic_mod:basic_circuit_board",
+          "amount": 1
+        },
+        {
+          "label": "Wires",
+          "item": "commandcookies_electronic_mod:wires",
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "id": "gaming_monitor_white",
+      "title": "White Gaming Monitor",
+      "family": "Displays",
+      "output": "commandcookies_electronic_mod:gaming_monitor_white",
+      "parts": [
+        {
+          "label": "Glass Pane",
+          "item": "minecraft:glass_pane",
+          "amount": 3
+        },
+        {
+          "label": "Iron Ingot",
+          "item": "minecraft:iron_ingot",
+          "amount": 2
+        },
+        {
+          "label": "Basic Circuit Board",
+          "item": "commandcookies_electronic_mod:basic_circuit_board",
+          "amount": 1
+        },
+        {
+          "label": "Wires",
+          "item": "commandcookies_electronic_mod:wires",
+          "amount": 2
+        },
+        {
+          "label": "White Dye",
+          "item": "minecraft:white_dye",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "id": "keyboard",
+      "title": "Keyboard",
+      "family": "Computer Accessories",
+      "output": "commandcookies_electronic_mod:keyboard",
+      "parts": [
+        {
+          "label": "Iron Ingot",
+          "item": "minecraft:iron_ingot",
+          "amount": 2
+        },
+        {
+          "label": "Basic Circuit Board",
+          "item": "commandcookies_electronic_mod:basic_circuit_board",
+          "amount": 1
+        },
+        {
+          "label": "Wires",
+          "item": "commandcookies_electronic_mod:wires",
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "id": "keyboard_white",
+      "title": "White Keyboard",
+      "family": "Computer Accessories",
+      "output": "commandcookies_electronic_mod:keyboard_white",
+      "parts": [
+        {
+          "label": "Iron Ingot",
+          "item": "minecraft:iron_ingot",
+          "amount": 2
+        },
+        {
+          "label": "Basic Circuit Board",
+          "item": "commandcookies_electronic_mod:basic_circuit_board",
+          "amount": 1
+        },
+        {
+          "label": "Wires",
+          "item": "commandcookies_electronic_mod:wires",
+          "amount": 2
+        },
+        {
+          "label": "White Dye",
+          "item": "minecraft:white_dye",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "id": "mouse",
+      "title": "Mouse",
+      "family": "Computer Accessories",
+      "output": "commandcookies_electronic_mod:mouse",
+      "parts": [
+        {
+          "label": "Iron Ingot",
+          "item": "minecraft:iron_ingot",
+          "amount": 1
+        },
+        {
+          "label": "Basic Circuit Board",
+          "item": "commandcookies_electronic_mod:basic_circuit_board",
+          "amount": 1
+        },
+        {
+          "label": "Wires",
+          "item": "commandcookies_electronic_mod:wires",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "id": "mouse_white",
+      "title": "White Mouse",
+      "family": "Computer Accessories",
+      "output": "commandcookies_electronic_mod:mouse_white",
+      "parts": [
+        {
+          "label": "Iron Ingot",
+          "item": "minecraft:iron_ingot",
+          "amount": 1
+        },
+        {
+          "label": "Basic Circuit Board",
+          "item": "commandcookies_electronic_mod:basic_circuit_board",
+          "amount": 1
+        },
+        {
+          "label": "Wires",
+          "item": "commandcookies_electronic_mod:wires",
+          "amount": 1
+        },
+        {
+          "label": "White Dye",
+          "item": "minecraft:white_dye",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "id": "wrench",
+      "title": "Wrench",
+      "family": "Tools",
+      "output": "commandcookies_electronic_mod:wrench",
+      "parts": [
+        {
+          "label": "Iron Ingot",
+          "item": "minecraft:iron_ingot",
+          "amount": 3
+        },
+        {
+          "label": "Stick",
+          "item": "minecraft:stick",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "id": "hdmi_cable",
+      "title": "HDMI Cable",
+      "family": "Components",
+      "output": "commandcookies_electronic_mod:hdmi_cable",
+      "parts": [
+        {
+          "label": "Wires",
+          "item": "commandcookies_electronic_mod:wires",
+          "amount": 2
+        },
+        {
+          "label": "Gold Ingot",
+          "item": "minecraft:gold_ingot",
+          "amount": 1
+        },
+        {
+          "label": "Redstone Dust",
+          "item": "minecraft:redstone",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "id": "generator",
+      "title": "Generator",
+      "family": "Power",
+      "output": "commandcookies_electronic_mod:generator",
+      "parts": [
+        {
+          "label": "Iron Ingot",
+          "item": "minecraft:iron_ingot",
+          "amount": 8
+        },
+        {
+          "label": "Furnace",
+          "item": "minecraft:furnace",
+          "amount": 1
+        },
+        {
+          "label": "Advanced Circuit Board",
+          "item": "commandcookies_electronic_mod:advanced_circuit_board",
+          "amount": 1
+        },
+        {
+          "label": "Wires",
+          "item": "commandcookies_electronic_mod:wires",
+          "amount": 4
+        },
+        {
+          "label": "Redstone Dust",
+          "item": "minecraft:redstone",
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "id": "wall_power_outlet",
+      "title": "Wall Power Outlet",
+      "family": "Power",
+      "output": "commandcookies_electronic_mod:wall_power_outlet",
+      "parts": [
+        {
+          "label": "Iron Ingot",
+          "item": "minecraft:iron_ingot",
+          "amount": 2
+        },
+        {
+          "label": "Nether Quartz",
+          "item": "minecraft:quartz",
+          "amount": 1
+        },
+        {
+          "label": "Wires",
+          "item": "commandcookies_electronic_mod:wires",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "id": "wall_coax_outlet",
+      "title": "Wall Coax Outlet",
+      "family": "Power",
+      "output": "commandcookies_electronic_mod:wall_coax_outlet",
+      "parts": [
+        {
+          "label": "Iron Ingot",
+          "item": "minecraft:iron_ingot",
+          "amount": 2
+        },
+        {
+          "label": "Copper Ingot",
+          "item": "minecraft:copper_ingot",
+          "amount": 1
+        },
+        {
+          "label": "Wires",
+          "item": "commandcookies_electronic_mod:wires",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "id": "snes_console",
+      "title": "SNES Console",
+      "family": "Retro Gaming",
+      "output": "commandcookies_electronic_mod:snes_console",
+      "parts": [
+        {
+          "label": "Iron Ingot",
+          "item": "minecraft:iron_ingot",
+          "amount": 3
+        },
+        {
+          "label": "Advanced Circuit Board",
+          "item": "commandcookies_electronic_mod:advanced_circuit_board",
+          "amount": 1
+        },
+        {
+          "label": "Wires",
+          "item": "commandcookies_electronic_mod:wires",
+          "amount": 3
+        },
+        {
+          "label": "Redstone Dust",
+          "item": "minecraft:redstone",
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "id": "snes_controller",
+      "title": "SNES Controller",
+      "family": "Retro Gaming",
+      "output": "commandcookies_electronic_mod:snes_controller",
+      "parts": [
+        {
+          "label": "Iron Ingot",
+          "item": "minecraft:iron_ingot",
+          "amount": 2
+        },
+        {
+          "label": "Basic Circuit Board",
+          "item": "commandcookies_electronic_mod:basic_circuit_board",
+          "amount": 1
+        },
+        {
+          "label": "Wires",
+          "item": "commandcookies_electronic_mod:wires",
+          "amount": 1
+        },
+        {
+          "label": "Stone Button",
+          "item": "minecraft:stone_button",
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "id": "airpods_max_midnight",
+      "title": "AirPods Max - Midnight",
+      "family": "Headphones",
+      "output": "commandcookies_electronic_mod:airpods_max_midnight",
+      "parts": [
+        {
+          "label": "Iron Ingot",
+          "item": "minecraft:iron_ingot",
+          "amount": 2
+        },
+        {
+          "label": "Basic Circuit Board",
+          "item": "commandcookies_electronic_mod:basic_circuit_board",
+          "amount": 1
+        },
+        {
+          "label": "Wires",
+          "item": "commandcookies_electronic_mod:wires",
+          "amount": 2
+        },
+        {
+          "label": "Wool",
+          "item": "#minecraft:wool",
+          "amount": 2
+        },
+        {
+          "label": "Black Dye",
+          "item": "minecraft:black_dye",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "id": "airpods_max_starlight",
+      "title": "AirPods Max - Starlight",
+      "family": "Headphones",
+      "output": "commandcookies_electronic_mod:airpods_max_starlight",
+      "parts": [
+        {
+          "label": "Iron Ingot",
+          "item": "minecraft:iron_ingot",
+          "amount": 2
+        },
+        {
+          "label": "Basic Circuit Board",
+          "item": "commandcookies_electronic_mod:basic_circuit_board",
+          "amount": 1
+        },
+        {
+          "label": "Wires",
+          "item": "commandcookies_electronic_mod:wires",
+          "amount": 2
+        },
+        {
+          "label": "Wool",
+          "item": "#minecraft:wool",
+          "amount": 2
+        },
+        {
+          "label": "Light Gray Dye",
+          "item": "minecraft:light_gray_dye",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "id": "airpods_max_blue",
+      "title": "AirPods Max - Blue",
+      "family": "Headphones",
+      "output": "commandcookies_electronic_mod:airpods_max_blue",
+      "parts": [
+        {
+          "label": "Iron Ingot",
+          "item": "minecraft:iron_ingot",
+          "amount": 2
+        },
+        {
+          "label": "Basic Circuit Board",
+          "item": "commandcookies_electronic_mod:basic_circuit_board",
+          "amount": 1
+        },
+        {
+          "label": "Wires",
+          "item": "commandcookies_electronic_mod:wires",
+          "amount": 2
+        },
+        {
+          "label": "Wool",
+          "item": "#minecraft:wool",
+          "amount": 2
+        },
+        {
+          "label": "Blue Dye",
+          "item": "minecraft:blue_dye",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "id": "airpods_max_purple",
+      "title": "AirPods Max - Purple",
+      "family": "Headphones",
+      "output": "commandcookies_electronic_mod:airpods_max_purple",
+      "parts": [
+        {
+          "label": "Iron Ingot",
+          "item": "minecraft:iron_ingot",
+          "amount": 2
+        },
+        {
+          "label": "Basic Circuit Board",
+          "item": "commandcookies_electronic_mod:basic_circuit_board",
+          "amount": 1
+        },
+        {
+          "label": "Wires",
+          "item": "commandcookies_electronic_mod:wires",
+          "amount": 2
+        },
+        {
+          "label": "Wool",
+          "item": "#minecraft:wool",
+          "amount": 2
+        },
+        {
+          "label": "Purple Dye",
+          "item": "minecraft:purple_dye",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "id": "airpods_max_orange",
+      "title": "AirPods Max - Orange",
+      "family": "Headphones",
+      "output": "commandcookies_electronic_mod:airpods_max_orange",
+      "parts": [
+        {
+          "label": "Iron Ingot",
+          "item": "minecraft:iron_ingot",
+          "amount": 2
+        },
+        {
+          "label": "Basic Circuit Board",
+          "item": "commandcookies_electronic_mod:basic_circuit_board",
+          "amount": 1
+        },
+        {
+          "label": "Wires",
+          "item": "commandcookies_electronic_mod:wires",
+          "amount": 2
+        },
+        {
+          "label": "Wool",
+          "item": "#minecraft:wool",
+          "amount": 2
+        },
+        {
+          "label": "Orange Dye",
+          "item": "minecraft:orange_dye",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "id": "airpods_max_silver",
+      "title": "AirPods Max - Silver",
+      "family": "Headphones",
+      "output": "commandcookies_electronic_mod:airpods_max_silver",
+      "parts": [
+        {
+          "label": "Iron Ingot",
+          "item": "minecraft:iron_ingot",
+          "amount": 2
+        },
+        {
+          "label": "Basic Circuit Board",
+          "item": "commandcookies_electronic_mod:basic_circuit_board",
+          "amount": 1
+        },
+        {
+          "label": "Wires",
+          "item": "commandcookies_electronic_mod:wires",
+          "amount": 2
+        },
+        {
+          "label": "Wool",
+          "item": "#minecraft:wool",
+          "amount": 2
+        },
+        {
+          "label": "White Dye",
+          "item": "minecraft:white_dye",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "id": "airpods_max_space_gray",
+      "title": "AirPods Max - Space Gray",
+      "family": "Headphones",
+      "output": "commandcookies_electronic_mod:airpods_max_space_gray",
+      "parts": [
+        {
+          "label": "Iron Ingot",
+          "item": "minecraft:iron_ingot",
+          "amount": 2
+        },
+        {
+          "label": "Basic Circuit Board",
+          "item": "commandcookies_electronic_mod:basic_circuit_board",
+          "amount": 1
+        },
+        {
+          "label": "Wires",
+          "item": "commandcookies_electronic_mod:wires",
+          "amount": 2
+        },
+        {
+          "label": "Wool",
+          "item": "#minecraft:wool",
+          "amount": 2
+        },
+        {
+          "label": "Gray Dye",
+          "item": "minecraft:gray_dye",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "id": "airpods_max_sky_blue",
+      "title": "AirPods Max - Sky Blue",
+      "family": "Headphones",
+      "output": "commandcookies_electronic_mod:airpods_max_sky_blue",
+      "parts": [
+        {
+          "label": "Iron Ingot",
+          "item": "minecraft:iron_ingot",
+          "amount": 2
+        },
+        {
+          "label": "Basic Circuit Board",
+          "item": "commandcookies_electronic_mod:basic_circuit_board",
+          "amount": 1
+        },
+        {
+          "label": "Wires",
+          "item": "commandcookies_electronic_mod:wires",
+          "amount": 2
+        },
+        {
+          "label": "Wool",
+          "item": "#minecraft:wool",
+          "amount": 2
+        },
+        {
+          "label": "Light Blue Dye",
+          "item": "minecraft:light_blue_dye",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "id": "airpods_max_pink",
+      "title": "AirPods Max - Pink",
+      "family": "Headphones",
+      "output": "commandcookies_electronic_mod:airpods_max_pink",
+      "parts": [
+        {
+          "label": "Iron Ingot",
+          "item": "minecraft:iron_ingot",
+          "amount": 2
+        },
+        {
+          "label": "Basic Circuit Board",
+          "item": "commandcookies_electronic_mod:basic_circuit_board",
+          "amount": 1
+        },
+        {
+          "label": "Wires",
+          "item": "commandcookies_electronic_mod:wires",
+          "amount": 2
+        },
+        {
+          "label": "Wool",
+          "item": "#minecraft:wool",
+          "amount": 2
+        },
+        {
+          "label": "Pink Dye",
+          "item": "minecraft:pink_dye",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "id": "airpods_max_green",
+      "title": "AirPods Max - Green",
+      "family": "Headphones",
+      "output": "commandcookies_electronic_mod:airpods_max_green",
+      "parts": [
+        {
+          "label": "Iron Ingot",
+          "item": "minecraft:iron_ingot",
+          "amount": 2
+        },
+        {
+          "label": "Basic Circuit Board",
+          "item": "commandcookies_electronic_mod:basic_circuit_board",
+          "amount": 1
+        },
+        {
+          "label": "Wires",
+          "item": "commandcookies_electronic_mod:wires",
+          "amount": 2
+        },
+        {
+          "label": "Wool",
+          "item": "#minecraft:wool",
+          "amount": 2
+        },
+        {
+          "label": "Green Dye",
+          "item": "minecraft:green_dye",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "id": "n64_console",
+      "title": "N64 Console",
+      "family": "Retro Gaming",
+      "output": "commandcookies_electronic_mod:n64_console",
+      "parts": [
+        {
+          "label": "Iron Ingot",
+          "item": "minecraft:iron_ingot",
+          "amount": 3
+        },
+        {
+          "label": "Advanced Circuit Board",
+          "item": "commandcookies_electronic_mod:advanced_circuit_board",
+          "amount": 1
+        },
+        {
+          "label": "Wires",
+          "item": "commandcookies_electronic_mod:wires",
+          "amount": 3
+        },
+        {
+          "label": "Redstone Dust",
+          "item": "minecraft:redstone",
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "id": "n64_controller",
+      "title": "N64 Controller - Charcoal Gray",
+      "family": "Retro Gaming",
+      "output": "commandcookies_electronic_mod:n64_controller",
+      "parts": [
+        {
+          "label": "Iron Ingot",
+          "item": "minecraft:iron_ingot",
+          "amount": 2
+        },
+        {
+          "label": "Basic Circuit Board",
+          "item": "commandcookies_electronic_mod:basic_circuit_board",
+          "amount": 1
+        },
+        {
+          "label": "Wires",
+          "item": "commandcookies_electronic_mod:wires",
+          "amount": 1
+        },
+        {
+          "label": "Stone Button",
+          "item": "minecraft:stone_button",
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "id": "security_camera",
+      "title": "Security Camera",
+      "family": "Security",
+      "output": "commandcookies_electronic_mod:security_camera",
+      "parts": [
+        {
+          "label": "Iron Ingots",
+          "item": "minecraft:iron_ingot",
+          "amount": 3
+        },
+        {
+          "label": "Camera Lens",
+          "item": "commandcookies_electronic_mod:camera_lens",
+          "amount": 1
+        },
+        {
+          "label": "Advanced Circuit Board",
+          "item": "commandcookies_electronic_mod:advanced_circuit_board",
+          "amount": 1
+        },
+        {
+          "label": "Wires",
+          "item": "commandcookies_electronic_mod:wires",
+          "amount": 2
+        },
+        {
+          "label": "Redstone",
+          "item": "minecraft:redstone",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "id": "aa_battery",
+      "title": "AA Battery",
+      "family": "Components",
+      "output": "commandcookies_electronic_mod:aa_battery",
+      "parts": [
+        {
+          "label": "Copper Ingot",
+          "item": "minecraft:copper_ingot",
+          "amount": 1
+        },
+        {
+          "label": "Iron Ingot",
+          "item": "minecraft:iron_ingot",
+          "amount": 1
+        },
+        {
+          "label": "Redstone Dust",
+          "item": "minecraft:redstone",
+          "amount": 1
+        }
+      ]
+    }
+  ]
+}

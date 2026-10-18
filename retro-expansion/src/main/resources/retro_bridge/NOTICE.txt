@@ -1,0 +1,41 @@
+CommandCookies Retro Expansion
+
+Minecraft integration: Copyright 2026 CommandCookie; MIT.
+Standalone LibretroHost helper: Copyright 2026 CommandCookie; GPL-3.0-or-later.
+Helper source is included in the JAR at retro_bridge/source/ and in the source repository at retro-expansion/src/emulatorHelper/java/.
+
+JNA 5.14.0: Copyright JNA contributors; Apache License 2.0 option.
+https://github.com/java-native-access/jna
+Original JNA license notices are supplied alongside jna.jar.
+
+Mesen libretro core is bundled for Windows x64, Linux x64/ARM64, and macOS Intel/Apple Silicon.
+Upstream source snapshot and LICENSE are included as mesen-source.zip and Mesen-LICENSE.txt.
+Source revision: 0102910c39ad1a62bc3f784466f3f67ca9eae335
+Build downloads and binary/source SHA-256 hashes: mesen-manifest.json.
+No changes have been made to the upstream emulator binaries or source.
+https://github.com/libretro/Mesen ; GPL-3.0.
+
+No game ROMs are included. Players supply their own local NES, SNES and N64 games.
+
+bsnes libretro: GPL-3.0-or-later; retains upstream component notices.
+https://github.com/libretro/bsnes-libretro
+Source revision: 05439f96121d2b9d7ad7a5fc1f29d7eebdcc8c43.
+Source: bsnes-source.zip; original license: bsnes-LICENSE.txt; manifest: bsnes-manifest.json.
+
+ParaLLEl N64 libretro: multiple component licenses. The Mupen64Plus core states
+GPL version 2 or later; other components retain their GPL/LGPL/MIT/BSD notices.
+https://github.com/libretro/parallel-n64
+Source revision: 649c6f898b22eeaece20bbefca6301cb120b126c.
+Source: parallel_n64-source.zip; component license texts: parallel_n64-LICENSE.txt;
+manifest: parallel_n64-manifest.json. Consult original notices inside the source archive.
+Software video/RSP plugins are selected by the helper; original binaries are unchanged.
+
+All three sets of cores include Windows x64, Linux x64/ARM64, and macOS Intel/Apple Silicon.
+These upstream source snapshots include build scripts and original copyright notices.
+No game ROMs or proprietary BIOS images are included.
+
+NativeHost standalone frontend: Copyright 2026 CommandCookie; GPL-3.0-or-later.
+Corresponding NativeHost.c, build instructions and original MIT-licensed libretro.h
+are included in native-source/. The frontend manifest records platforms and hashes.
+This frontend was compiled using Zig 0.15.2; the compiler is not bundled or required
+by players. SNES/N64 callbacks stay in native code, outside the Java VM.

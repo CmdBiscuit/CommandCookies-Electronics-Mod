@@ -1,0 +1,7 @@
+{
+  "parent": "commandcookies_electronic_mod:custom/mouse",
+  "textures": {
+    "0": "commandcookies_electronic_mod:block/mouse",
+    "particle": "commandcookies_electronic_mod:block/mouse"
+  }
+}

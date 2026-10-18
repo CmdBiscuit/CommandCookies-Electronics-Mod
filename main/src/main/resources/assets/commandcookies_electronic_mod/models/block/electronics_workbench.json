@@ -1,0 +1,8 @@
+{
+  "parent": "commandcookies_electronic_mod:custom/electronics_workbench",
+  "textures": {
+    "0": "commandcookies_electronic_mod:block/electronics_workbench",
+    "particle": "commandcookies_electronic_mod:block/electronics_workbench"
+  },
+  "render_type": "solid"
+}

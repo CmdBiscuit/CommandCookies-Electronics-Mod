@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "commandcookies_electronic_mod:block/snes_console"
+    },
+    "facing=east": {
+      "model": "commandcookies_electronic_mod:block/snes_console",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "commandcookies_electronic_mod:block/snes_console",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "commandcookies_electronic_mod:block/snes_console",
+      "y": 270
+    }
+  }
+}

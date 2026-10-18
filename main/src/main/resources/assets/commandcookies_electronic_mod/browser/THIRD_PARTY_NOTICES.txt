@@ -1,0 +1,4 @@
+This browser uses Chromium Embedded Framework and JCEF (BSD), jcefmaven (Apache-2.0), Gson (Apache-2.0), and Apache Commons libraries (Apache-2.0). Their included notices and licenses apply to those components. Native Chromium/JCEF licenses remain in the engine installation. The browser runs in a separate helper process, with no separate Minecraft mod dependency.
+JCEF: https://github.com/chromiumembedded/java-cef
+jcefmaven: https://github.com/jcefmaven/jcefmaven
+Chromium: https://www.chromium.org/

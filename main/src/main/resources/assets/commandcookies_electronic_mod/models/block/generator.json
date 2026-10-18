@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "commandcookies_electronic_mod:block/generator_16x16_bottom",
+    "up": "commandcookies_electronic_mod:block/generator_16x16_top",
+    "north": "commandcookies_electronic_mod:block/generator_16x16_front",
+    "east": "commandcookies_electronic_mod:block/generator_16x16_left",
+    "south": "commandcookies_electronic_mod:block/generator_16x16_back",
+    "west": "commandcookies_electronic_mod:block/generator_16x16_right",
+    "particle": "commandcookies_electronic_mod:block/generator_16x16_bottom"
+  },
+  "render_type": "solid"
+}

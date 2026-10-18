@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "commandcookies_electronic_mod:block/gaming_chair_orange"
+    },
+    "facing=east": {
+      "model": "commandcookies_electronic_mod:block/gaming_chair_orange",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "commandcookies_electronic_mod:block/gaming_chair_orange",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "commandcookies_electronic_mod:block/gaming_chair_orange",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,53 @@
+plugins { id 'net.neoforged.moddev' }
+
+evaluationDependsOn(':main')
+version = providers.gradleProperty('retro_version').get()
+base.archivesName = 'commandcookies-retro-expansion'
+def releaseVersion = version.toString()
+
+sourceSets { emulatorHelper { java.srcDir 'src/emulatorHelper/java' } }
+
+dependencies {
+    implementation project(':main')
+    emulatorHelperImplementation files('src/main/resources/retro_bridge/jna.jar')
+}
+
+neoForge {
+    version = providers.gradleProperty('neoforge_version').get()
+
+    runs {
+        client { client() }
+        server {
+            server()
+            programArgument '--nogui'
+        }
+        configureEach {
+            logLevel = org.slf4j.event.Level.INFO
+            def extraJvmOptions = System.getenv('CEM_JVM_OPTIONS')
+            if (extraJvmOptions) {
+                extraJvmOptions.split(/\s+/).findAll { it.trim() }.each { jvmArgument it }
+            }
+        }
+    }
+
+    mods {
+        commandcookies_electronic_mod { sourceSet project(':main').sourceSets.main }
+        commandcookies_retro_expansion { sourceSet sourceSets.main }
+    }
+}
+
+tasks.register('emulatorHelperJar', Jar) {
+    from sourceSets.emulatorHelper.output
+    archiveFileName = 'helper.jar'
+    destinationDirectory = layout.buildDirectory.dir('retroHelper')
+}
+
+tasks.named('processResources') {
+    dependsOn tasks.named('emulatorHelperJar')
+    from(tasks.named('emulatorHelperJar')) { into 'retro_bridge' }
+    from('src/emulatorHelper/java') { into 'retro_bridge/source' }
+    inputs.property 'mod_version', releaseVersion
+    filesMatching('META-INF/neoforge.mods.toml') {
+        filter { line -> line.startsWith('version=') ? 'version="' + releaseVersion + '"' : line }
+    }
+}

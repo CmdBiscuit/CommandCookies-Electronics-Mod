@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "image_tvs",
+  "ingredients": [
+    {
+      "item": "commandcookies_electronic_mod:tv_wall_mounted"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    }
+  ],
+  "result": {
+    "id": "commandcookies_electronic_mod:tv_with_stand",
+    "count": 1
+  }
+}

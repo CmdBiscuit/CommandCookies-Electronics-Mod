@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "commandcookies_electronic_mod:blocks/crt_tv",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "commandcookies_electronic_mod:crt_tv"
+        }
+      ]
+    }
+  ]
+}

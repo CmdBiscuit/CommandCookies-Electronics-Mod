@@ -1,0 +1,34 @@
+{
+  "mappings": {
+    "default": {
+      "name": "default",
+      "map": {
+        "0": "iphone_18_pro_max"
+      }
+    },
+    "black": {
+      "name": "black",
+      "map": {
+        "0": "iphone_18_pro_max_black"
+      }
+    },
+    "silver": {
+      "name": "silver",
+      "map": {
+        "0": "iphone_18_pro_max_silver"
+      }
+    },
+    "glacier": {
+      "name": "glacier",
+      "map": {
+        "0": "iphone_18_pro_max_glacier"
+      }
+    },
+    "burgundy": {
+      "name": "burgundy",
+      "map": {
+        "0": "iphone_18_pro_max_burgundy"
+      }
+    }
+  }
+}

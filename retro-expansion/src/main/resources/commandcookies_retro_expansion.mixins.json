@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.mcreator.commandcookiesretroexpansion.retro.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "WorkbenchRecipesMixin",
+    "NesDisplayMixin",
+    "ExpansionCartridgeMixin",
+    "ExpansionRemovalMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

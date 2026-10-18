@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "commandcookies_electronic_mod:blocks/gaming_chair_magenta",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "commandcookies_electronic_mod:gaming_chair_magenta"
+        }
+      ]
+    }
+  ]
+}

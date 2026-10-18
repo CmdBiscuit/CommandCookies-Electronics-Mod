@@ -1,0 +1,51 @@
+{
+  "protocol": 2,
+  "license": "GPL-3.0-or-later; libretro.h MIT",
+  "compiler": "Zig 0.15.2",
+  "source": "retro_bridge/native-source/NativeHost.c",
+  "platforms": {
+    "windows-x86_64": {
+      "resource": "retro_bridge/frontends/windows-x86_64/native-host.exe",
+      "sha256": "8294f40dc031a835b4dd73f4339022be8490558ad5b18bea978755519c33a61e",
+      "bytes": 54272,
+      "target": "x86_64-windows-gnu",
+      "flags": [
+        "-municode"
+      ]
+    },
+    "linux-x86_64": {
+      "resource": "retro_bridge/frontends/linux-x86_64/native-host",
+      "sha256": "888e33a910620c090595cb9b3ed8dc514c644811558988b755f1d7a53714a63a",
+      "bytes": 15976,
+      "target": "x86_64-linux-gnu.2.17",
+      "flags": [
+        "-ldl",
+        "-lm"
+      ]
+    },
+    "linux-aarch64": {
+      "resource": "retro_bridge/frontends/linux-aarch64/native-host",
+      "sha256": "388b273638096d33fa274b021e9c93185e9ba89920a778153938b36b3975a129",
+      "bytes": 15864,
+      "target": "aarch64-linux-gnu.2.17",
+      "flags": [
+        "-ldl",
+        "-lm"
+      ]
+    },
+    "macos-x86_64": {
+      "resource": "retro_bridge/frontends/macos-x86_64/native-host",
+      "sha256": "5fe25221f0b4b0711c07b663010edd4f77b4054fddc0b6f4f102a1b08243937b",
+      "bytes": 27040,
+      "target": "x86_64-macos.10.13",
+      "flags": []
+    },
+    "macos-aarch64": {
+      "resource": "retro_bridge/frontends/macos-aarch64/native-host",
+      "sha256": "1f1ef7a416304c6c01835935a1d965fd35adb09d5da59c5000ad13e68733a1ed",
+      "bytes": 52712,
+      "target": "aarch64-macos.11.0",
+      "flags": []
+    }
+  }
+}

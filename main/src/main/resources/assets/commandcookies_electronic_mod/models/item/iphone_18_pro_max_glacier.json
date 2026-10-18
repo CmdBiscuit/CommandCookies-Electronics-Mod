@@ -1,0 +1,7 @@
+{
+  "parent": "commandcookies_electronic_mod:custom/iphone_18_pro_max_glacier",
+  "textures": {
+    "0": "commandcookies_electronic_mod:block/iphone_18_pro_max_glacier",
+    "particle": "commandcookies_electronic_mod:item/iphone_18_pro_max_glacier"
+  }
+}

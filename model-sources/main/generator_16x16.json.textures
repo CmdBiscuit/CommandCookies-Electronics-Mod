@@ -1,0 +1,15 @@
+{
+  "mappings": {
+    "default": {
+      "name": "default",
+      "map": {
+        "top": "generator_16x16_top",
+        "left": "generator_16x16_left",
+        "bottom": "generator_16x16_bottom",
+        "back": "generator_16x16_back",
+        "front": "generator_16x16_front",
+        "right": ""
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mappings": {
+    "default": {
+      "name": "default",
+      "map": {
+        "0": "crt_front",
+        "1": "crt_right",
+        "2": "crt_left",
+        "3": "crt_top",
+        "4": "crt_back",
+        "5": "crt_bottom"
+      }
+    }
+  }
+}

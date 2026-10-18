@@ -1,0 +1,7 @@
+{
+  "parent": "commandcookies_electronic_mod:custom/calculator_dark_gray_textured",
+  "textures": {
+    "0": "commandcookies_electronic_mod:block/calculator_dark_gray",
+    "particle": "minecraft:item/cauldron"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "music_1": {
+    "sounds": [
+      {
+        "name": "cem_nes:music_1",
+        "stream": true
+      }
+    ]
+  },
+  "music_2": {
+    "sounds": [
+      {
+        "name": "cem_nes:music_2",
+        "stream": true
+      }
+    ]
+  },
+  "music_3": {
+    "sounds": [
+      {
+        "name": "cem_nes:music_3",
+        "stream": true
+      }
+    ]
+  },
+  "high_score": {
+    "sounds": [
+      {
+        "name": "cem_nes:high_score",
+        "stream": true
+      }
+    ]
+  },
+  "victory": {
+    "sounds": [
+      {
+        "name": "cem_nes:victory",
+        "stream": true
+      }
+    ]
+  },
+  "success": {
+    "sounds": [
+      {
+        "name": "cem_nes:success",
+        "stream": true
+      }
+    ]
+  }
+}

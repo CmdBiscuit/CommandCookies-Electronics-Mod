@@ -1,0 +1,7 @@
+{
+  "parent": "commandcookies_electronic_mod:custom/aa_battery",
+  "textures": {
+    "0": "commandcookies_electronic_mod:block/aa_battery",
+    "particle": "commandcookies_electronic_mod:item/aa_battery"
+  }
+}

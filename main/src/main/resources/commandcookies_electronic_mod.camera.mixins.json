@@ -1,0 +1,17 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.mcreator.commandcookieselectronicmod.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "MinecraftCameraAccess",
+    "LevelRendererCameraAccess",
+    "CameraRenderScopeMixin",
+    "CameraRenderDistanceMixin",
+    "CameraTerrainCenterMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "plugin": "net.mcreator.commandcookieselectronicmod.mixin.CameraMixinPlugin"
+}

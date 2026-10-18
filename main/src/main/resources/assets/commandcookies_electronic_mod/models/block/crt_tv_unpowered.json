@@ -1,0 +1,14 @@
+{
+  "parent": "commandcookies_electronic_mod:custom/crt_tv_block_edges",
+  "textures": {
+    "all": "commandcookies_electronic_mod:block/crt_bottom",
+    "particle": "commandcookies_electronic_mod:block/crt_right",
+    "0": "commandcookies_electronic_mod:block/crt_front_unpowered",
+    "1": "commandcookies_electronic_mod:block/crt_right",
+    "2": "commandcookies_electronic_mod:block/crt_left",
+    "3": "commandcookies_electronic_mod:block/crt_top",
+    "4": "commandcookies_electronic_mod:block/crt_back",
+    "5": "commandcookies_electronic_mod:block/crt_bottom"
+  },
+  "render_type": "solid"
+}

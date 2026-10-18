@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "commandcookies_electronic_mod:block/basic_circuit_board"
+    },
+    "facing=east": {
+      "model": "commandcookies_electronic_mod:block/basic_circuit_board",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "commandcookies_electronic_mod:block/basic_circuit_board",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "commandcookies_electronic_mod:block/basic_circuit_board",
+      "y": 270
+    }
+  }
+}

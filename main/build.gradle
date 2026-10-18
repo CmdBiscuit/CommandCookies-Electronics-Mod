@@ -1,0 +1,35 @@
+plugins { id 'net.neoforged.moddev' }
+
+version = providers.gradleProperty('main_version').get()
+base.archivesName = 'commandcookies-electronic-mod'
+def releaseVersion = version.toString()
+
+neoForge {
+    version = providers.gradleProperty('neoforge_version').get()
+
+    runs {
+        client { client() }
+        server {
+            server()
+            programArgument '--nogui'
+        }
+        configureEach {
+            logLevel = org.slf4j.event.Level.INFO
+            def extraJvmOptions = System.getenv('CEM_JVM_OPTIONS')
+            if (extraJvmOptions) {
+                extraJvmOptions.split(/\s+/).findAll { it.trim() }.each { jvmArgument it }
+            }
+        }
+    }
+
+    mods {
+        commandcookies_electronic_mod { sourceSet sourceSets.main }
+    }
+}
+
+tasks.named('processResources') {
+    inputs.property 'mod_version', releaseVersion
+    filesMatching('META-INF/neoforge.mods.toml') {
+        filter { line -> line.startsWith('version=') ? 'version="' + releaseVersion + '"' : line }
+    }
+}

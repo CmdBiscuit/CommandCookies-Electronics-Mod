@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "pattern": [
+    "aba",
+    "cdc",
+    "eee"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:iron_ingot"
+    },
+    "b": {
+      "item": "minecraft:redstone"
+    },
+    "c": {
+      "item": "commandcookies_electronic_mod:wires"
+    },
+    "d": {
+      "item": "commandcookies_electronic_mod:basic_circuit_board"
+    },
+    "e": {
+      "item": "minecraft:black_concrete"
+    }
+  },
+  "result": {
+    "id": "commandcookies_electronic_mod:electronics_workbench",
+    "count": 1
+  }
+}

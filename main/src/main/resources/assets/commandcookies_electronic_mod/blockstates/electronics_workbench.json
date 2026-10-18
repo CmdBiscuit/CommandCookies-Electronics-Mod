@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "commandcookies_electronic_mod:block/electronics_workbench",
+      "y": 180
+    },
+    "facing=east": {
+      "model": "commandcookies_electronic_mod:block/electronics_workbench",
+      "y": 270
+    },
+    "facing=south": {
+      "model": "commandcookies_electronic_mod:block/electronics_workbench",
+      "y": 0
+    },
+    "facing=west": {
+      "model": "commandcookies_electronic_mod:block/electronics_workbench",
+      "y": 90
+    }
+  }
+}

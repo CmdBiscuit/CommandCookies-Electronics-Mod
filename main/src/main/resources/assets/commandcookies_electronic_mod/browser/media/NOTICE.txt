@@ -1,0 +1,5 @@
+Media mode uses castLabs Electron for Content Security 44.5.1+wvcus.
+Engine: https://github.com/castlabs/electron-releases
+Downloaded engine includes Electron and Chromium licenses and third-party notices.
+Widevine is installed by the engine from Google servers and is not bundled in this mod.
+Production distribution requires a production VMP signature obtained using castLabs EVS.

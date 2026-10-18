@@ -1,0 +1,7 @@
+{
+  "textures": {
+    "0": "commandcookies_electronic_mod:item/s26_ultra_white",
+    "particle": "commandcookies_electronic_mod:item/s26_ultra_white"
+  },
+  "parent": "commandcookies_electronic_mod:custom/s26_ultra"
+}

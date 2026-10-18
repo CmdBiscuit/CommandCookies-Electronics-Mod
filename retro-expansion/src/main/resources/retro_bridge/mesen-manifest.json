@@ -1,0 +1,42 @@
+{
+  "project": "Mesen libretro",
+  "license": "GPL-3.0",
+  "source_commit": "0102910c39ad1a62bc3f784466f3f67ca9eae335",
+  "source_commit_date": "2026-04-20T17:31:27Z",
+  "source_url": "https://codeload.github.com/libretro/Mesen/zip/0102910c39ad1a62bc3f784466f3f67ca9eae335",
+  "source_resource": "retro_bridge/mesen-source.zip",
+  "source_sha256": "375a885c397685a5aad82bd14f68e1b30d8e78405471344629a6f2a04c8a9e04",
+  "retrieved_utc": "2026-10-10T19:08:33.917098+00:00",
+  "cores": {
+    "windows-x86_64": {
+      "resource": "retro_bridge/cores/windows-x86_64/mesen_libretro.dll",
+      "sha256": "1ab1e5b35a38786a8052be8bc7be7647d30b41fd37b75806e3179e735f90658e",
+      "bytes": 3766272,
+      "download": "https://buildbot.libretro.com/nightly/windows/x86_64/latest/mesen_libretro.dll.zip"
+    },
+    "linux-x86_64": {
+      "resource": "retro_bridge/cores/linux-x86_64/mesen_libretro.so",
+      "sha256": "552f8ab6ac1fd08bd555f589eb999be73a469c79ccfa929f884adb2cf3366b43",
+      "bytes": 3343872,
+      "download": "https://buildbot.libretro.com/nightly/linux/x86_64/latest/mesen_libretro.so.zip"
+    },
+    "linux-aarch64": {
+      "resource": "retro_bridge/cores/linux-aarch64/mesen_libretro.so",
+      "sha256": "6420080d84c00bc43c1122deb9241fa3c4412bcaaeeb0d8b8067881e8f46990d",
+      "bytes": 3126720,
+      "download": "https://buildbot.libretro.com/nightly/linux/aarch64/latest/mesen_libretro.so.zip"
+    },
+    "macos-x86_64": {
+      "resource": "retro_bridge/cores/macos-x86_64/mesen_libretro.dylib",
+      "sha256": "1094a7e80fa43a1ee8ddf0e204ee68411f676499fc562144c05d9163eb4dd5a9",
+      "bytes": 3617712,
+      "download": "https://buildbot.libretro.com/nightly/apple/osx/x86_64/latest/mesen_libretro.dylib.zip"
+    },
+    "macos-aarch64": {
+      "resource": "retro_bridge/cores/macos-aarch64/mesen_libretro.dylib",
+      "sha256": "3849098df9baf3b37fb58e27049c05d39ff4c4ffa63f0d739294188ba601c5d5",
+      "bytes": 3346760,
+      "download": "https://buildbot.libretro.com/nightly/apple/osx/arm64/latest/mesen_libretro.dylib.zip"
+    }
+  }
+}

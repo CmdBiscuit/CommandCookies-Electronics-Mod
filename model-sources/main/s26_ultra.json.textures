@@ -1,0 +1,46 @@
+{
+  "mappings": {
+    "default": {
+      "name": "default",
+      "map": {
+        "0": "s26_ultra"
+      }
+    },
+    "black": {
+      "name": "black",
+      "map": {
+        "0": "s26_ultra_black"
+      }
+    },
+    "cobalt_violet": {
+      "name": "cobalt_violet",
+      "map": {
+        "0": "s26_ultra_cobalt_violet"
+      }
+    },
+    "sky_blue": {
+      "name": "sky_blue",
+      "map": {
+        "0": "s26_ultra_sky_blue"
+      }
+    },
+    "white": {
+      "name": "white",
+      "map": {
+        "0": "s26_ultra_white"
+      }
+    },
+    "pink_gold": {
+      "name": "pink_gold",
+      "map": {
+        "0": "s26_ultra_pink_gold"
+      }
+    },
+    "silver_shadow": {
+      "name": "silver_shadow",
+      "map": {
+        "0": "s26_ultra_silver_shadow"
+      }
+    }
+  }
+}

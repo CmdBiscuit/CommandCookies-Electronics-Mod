@@ -1,0 +1,41 @@
+{
+  "project": "parallel_n64 libretro",
+  "source_commit": "649c6f898b22eeaece20bbefca6301cb120b126c",
+  "source_commit_date": "2026-10-10T22:42:12Z",
+  "source_url": "https://codeload.github.com/libretro/parallel-n64/zip/649c6f898b22eeaece20bbefca6301cb120b126c",
+  "source_resource": "retro_bridge/parallel_n64-source.zip",
+  "source_sha256": "9f07f918cfc72881d8bb1fabf9ea9ec24a0c6f7d42a90c695f6bad45dae9af7d",
+  "retrieved_utc": "2026-10-11T16:38:26.527522+00:00",
+  "cores": {
+    "windows-x86_64": {
+      "resource": "retro_bridge/cores/windows-x86_64/parallel_n64_libretro.dll",
+      "sha256": "756885196fddc427a32e22612f171eed5ee7176ce1a073864c780ed219ef2abe",
+      "bytes": 9320317,
+      "download": "https://buildbot.libretro.com/nightly/windows/x86_64/latest/parallel_n64_libretro.dll.zip"
+    },
+    "linux-x86_64": {
+      "resource": "retro_bridge/cores/linux-x86_64/parallel_n64_libretro.so",
+      "sha256": "7d0257b820047c57b72c2661a5b0a126833967950681eb9ba0058a841a8dee33",
+      "bytes": 8311752,
+      "download": "https://buildbot.libretro.com/nightly/linux/x86_64/latest/parallel_n64_libretro.so.zip"
+    },
+    "linux-aarch64": {
+      "resource": "retro_bridge/cores/linux-aarch64/parallel_n64_libretro.so",
+      "sha256": "fa2c09138cf002c164b5250f1ab0a3a2fe61af5a812cc93a11d65068e1c83ff8",
+      "bytes": 7591544,
+      "download": "https://buildbot.libretro.com/nightly/linux/aarch64/latest/parallel_n64_libretro.so.zip"
+    },
+    "macos-x86_64": {
+      "resource": "retro_bridge/cores/macos-x86_64/parallel_n64_libretro.dylib",
+      "sha256": "ae386781aec6ece4f2c4158e88ca920e94495e6ad346622f9307f062cac22d0c",
+      "bytes": 6790576,
+      "download": "https://buildbot.libretro.com/nightly/apple/osx/x86_64/latest/parallel_n64_libretro.dylib.zip"
+    },
+    "macos-aarch64": {
+      "resource": "retro_bridge/cores/macos-aarch64/parallel_n64_libretro.dylib",
+      "sha256": "5b7579df51dca6ebcad61e635f94f7e755bd5c4d4008cc1cdf96070c73cfa2d8",
+      "bytes": 5294184,
+      "download": "https://buildbot.libretro.com/nightly/apple/osx/arm64/latest/parallel_n64_libretro.dylib.zip"
+    }
+  }
+}

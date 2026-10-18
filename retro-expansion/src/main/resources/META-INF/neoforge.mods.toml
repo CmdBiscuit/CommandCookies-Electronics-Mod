@@ -1,0 +1,48 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="MIT; helper GPL-3.0-or-later; Mesen GPL-3.0; bsnes GPL-3.0-or-later; ParaLLEl component licenses; JNA Apache-2.0"
+
+[[mods]]
+modId="commandcookies_retro_expansion"
+version="1.1.0"
+displayName="CommandCookies Retro Expansion"
+displayURL="https://modrinth.com/project/commandcookies-retro-expansion"
+logoFile="logo.png"
+credits="CommandCookie, nikaa, Mesen, bsnes, ParaLLEl N64, libretro, JNA"
+authors="CommandCookie"
+description="Play local NES, SNES and N64 games."
+
+# Start of user code block mod configuration
+# End of user code block mod configuration
+
+
+# Start of user code block custom mixins
+[[mixins]]
+config="commandcookies_retro_expansion.mixins.json"
+# End of user code block custom mixins
+
+[[dependencies.commandcookies_retro_expansion]]
+modId="neoforge"
+type="required"
+versionRange="[21.1.232,)"
+ordering="AFTER"
+side="BOTH"
+
+[[dependencies.commandcookies_retro_expansion]]
+modId="minecraft"
+type="required"
+versionRange="[1.21.1]"
+ordering="AFTER"
+side="BOTH"
+
+
+
+
+# Start of user code block dependencies configuration
+[[dependencies.commandcookies_retro_expansion]]
+modId="commandcookies_electronic_mod"
+type="required"
+versionRange="[3.0.0,3.1.0)"
+ordering="AFTER"
+side="BOTH"
+# End of user code block dependencies configuration

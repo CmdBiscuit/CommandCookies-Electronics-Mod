@@ -1,0 +1,8 @@
+{
+  "textures": {
+    "particle": "commandcookies_electronic_mod:block/gaming_chair_lime",
+    "0": "commandcookies_electronic_mod:block/gaming_chair_lime"
+  },
+  "render_type": "solid",
+  "parent": "commandcookies_electronic_mod:custom/gaming_chair"
+}

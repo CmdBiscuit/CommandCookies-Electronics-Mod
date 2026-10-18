@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "name": "default",
+      "map": {
+        "0": "retro_crt_monitor_display"
+      }
+    }
+  }
+}

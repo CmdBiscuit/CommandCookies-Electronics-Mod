@@ -1,0 +1,9 @@
+.gradle/
+**/build/
+**/run/
+**/runs/
+.idea/
+.vscode/
+*.iml
+*.log
+local.properties

@@ -1,0 +1,41 @@
+{
+  "project": "bsnes libretro",
+  "source_commit": "05439f96121d2b9d7ad7a5fc1f29d7eebdcc8c43",
+  "source_commit_date": "2026-09-19T20:36:56Z",
+  "source_url": "https://codeload.github.com/libretro/bsnes-libretro/zip/05439f96121d2b9d7ad7a5fc1f29d7eebdcc8c43",
+  "source_resource": "retro_bridge/bsnes-source.zip",
+  "source_sha256": "9c091b0b50e6b0068bf5c976f244df81aa80d199b292a2c0a5933ea09165f704",
+  "retrieved_utc": "2026-10-11T16:38:23.922213+00:00",
+  "cores": {
+    "windows-x86_64": {
+      "resource": "retro_bridge/cores/windows-x86_64/bsnes_libretro.dll",
+      "sha256": "21dc44d33b490efee598aaba4820ff3ca1c2cdd4e620b87b9d12721f31929116",
+      "bytes": 5814288,
+      "download": "https://buildbot.libretro.com/nightly/windows/x86_64/latest/bsnes_libretro.dll.zip"
+    },
+    "linux-x86_64": {
+      "resource": "retro_bridge/cores/linux-x86_64/bsnes_libretro.so",
+      "sha256": "15e4a453a27ef7071ca3d2edaf765e6afbd2eaeed840b5ee3c69cb913ea3a7ba",
+      "bytes": 5914928,
+      "download": "https://buildbot.libretro.com/nightly/linux/x86_64/latest/bsnes_libretro.so.zip"
+    },
+    "linux-aarch64": {
+      "resource": "retro_bridge/cores/linux-aarch64/bsnes_libretro.so",
+      "sha256": "1e30e974b84e65b70810199cd04f6eb8ab35961fb4c3c113761ce044f24763de",
+      "bytes": 5865872,
+      "download": "https://buildbot.libretro.com/nightly/linux/aarch64/latest/bsnes_libretro.so.zip"
+    },
+    "macos-x86_64": {
+      "resource": "retro_bridge/cores/macos-x86_64/bsnes_libretro.dylib",
+      "sha256": "5a7074c90606873f1386ff20a12f126b9ed2953d2eceb8832e4ce285880a2e36",
+      "bytes": 6815856,
+      "download": "https://buildbot.libretro.com/nightly/apple/osx/x86_64/latest/bsnes_libretro.dylib.zip"
+    },
+    "macos-aarch64": {
+      "resource": "retro_bridge/cores/macos-aarch64/bsnes_libretro.dylib",
+      "sha256": "259fba90418f9149b91f7de95a110f080c5e00fcfb7da644b677964399559f01",
+      "bytes": 6140456,
+      "download": "https://buildbot.libretro.com/nightly/apple/osx/arm64/latest/bsnes_libretro.dylib.zip"
+    }
+  }
+}

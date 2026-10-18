@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "commandcookies_electronic_mod:item/rainbow_sword_32x32"
+  }
+}
