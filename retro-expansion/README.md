@@ -1,4 +1,4 @@
-# CommandCookies Retro Expansion â€” 1.1.0
+# CommandCookies Retro Expansion 1.1.0
 
 
 
