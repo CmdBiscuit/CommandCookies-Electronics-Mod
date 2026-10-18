@@ -24,7 +24,7 @@ This repository contains the **3.0.0 main mod**, the optional **Retro Expansion*
 | --- | --- |
 | **Computers & laptops** | Use desktops and apps, connect gaming PCs to monitors with HDMI, and customize setups with keyboards and mice. |
 | **Phones** | Use phone apps, access paired security cameras, and browse with Chromium. Media mode can keep audio playing after closing the phone. |
-| **Chromium browser** | Browse real websites with tabs, saved browser data, Standard and Media modes, and 25 or 60 FPS settings. |
+| **Chromium browser** | Browse real websites with tabs, saved browser data, Standard and Media modes, and 25 or 60 FPS settings. Windows 64-bit only. |
 | **Image & GIF TVs** | Display Imgur images and animated GIFs on wall-mounted or standing TVs, with image-fitting controls. |
 | **Security cameras** | Pair cameras privately to your phone and view them remotely. Two AA batteries power a camera for 15 real-world days. |
 | **Power & cables** | Connect generators, outlets and devices using a wrench. HDMI and AV cables handle compatible display connections. |
@@ -40,6 +40,16 @@ This repository contains the **3.0.0 main mod**, the optional **Retro Expansion*
 4. To play local NES, SNES or N64 ROMs, also install the matching **Retro Expansion** build on both client and server.
 
 Use one copy of the main mod at a time. Install the regular mod JARs, not source JARs or the repository folder.
+
+### Platform support
+
+| Feature | Windows 64-bit | macOS | Linux |
+| --- | --- | --- | --- |
+| Main mod (devices, TVs, cameras, power, guides) | ✅ | ✅ | ✅ |
+| Chromium browser (Standard and Media modes) | ✅ | ❌ | ❌ |
+| Retro Expansion emulation | ✅ | ✅ Intel and Apple Silicon | ✅ x64 and ARM64 |
+
+On macOS and Linux, everything except the browser works normally; opening Chromium shows a "Windows 64-bit" notice instead.
 
 ### Retro Expansion
 
