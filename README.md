@@ -2,7 +2,7 @@
 
 # CommandCookies Electronic Mod
 
-**Bring your Minecraft builds to life with working electronics.**
+**Minecraft with working electronics.**
 
 Computers · Phones · TVs · Security Cameras · Retro Consoles
 
@@ -152,8 +152,6 @@ Each module keeps its development worlds, settings, browser profiles, downloads 
 | [`retro-expansion/src/main/resources/retro_bridge/`](retro-expansion/src/main/resources/retro_bridge/) | Emulator binaries, corresponding source archives, hashes and notices |
 | [`model-sources/`](model-sources/) | Editable model files; not included in the mod JAR |
 | [`browser-tools/`](browser-tools/) | Browser helper sources and maintenance instructions |
-
-The historical `net.mcreator` Java package names are retained for compatibility. The project has no MCreator runtime requirement; edit registration classes directly rather than regenerating them.
 
 ## Browser runtimes & third-party software
 
